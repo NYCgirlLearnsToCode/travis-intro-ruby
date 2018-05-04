@@ -1,2 +1,2 @@
 language: ruby
-ruby test/test_server.rb
+ruby test/test_server.rb #
